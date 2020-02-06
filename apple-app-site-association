@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "TRCKC8GFT7.ru.rutoken.nfc-bgr-test",
+      "paths": ["*"]
+    }, {
+      "appID": "TRCKC8GFT7.ru.rutoken.nfc-bgr-test",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
