@@ -9,7 +9,7 @@
       "appID": "TRCKC8GFT7.com.aktivco.AnotherAppForToken",
       "paths": ["*"]
     }, {
-      "appID": "TRCKC8GFT7.com.triffco.TestAppThatUseToken",
+      "appID": "TRCKC8GFT7.com.aktivco.TestAppThatUseToken",
       "paths": ["*"]
     }
     ]
