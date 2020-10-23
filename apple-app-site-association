@@ -6,10 +6,10 @@
       "appID": "TRCKC8GFT7.ru.rutoken.nfc-bgr-test",
       "paths": ["*"]
     }, {
-      "appID": "TRCKC8GFT7.com.aktivco.AnotherAppForToken",
+      "appID": "TRCKC8GFT7.com.aktivco.TestAppThatUseToken",
       "paths": ["*"]
     }, {
-      "appID": "TRCKC8GFT7.com.aktivco.TestAppThatUseToken",
+      "appID": "TRCKC8GFT7.com.aktivco.AnotherAppForToken",
       "paths": ["*"]
     }
     ]
